@@ -13,7 +13,7 @@
     font-family: 'Segoe UI', Tahoma, sans-serif;
     background-image:
       linear-gradient(90deg, rgba(0,0,0,0.75) 0%, rgba(0,0,0,0.45) 45%, rgba(0,0,0,0.15) 100%),
-    url('/lab4-lavalust/public/assets/images/bg.jpg');
+    url('assets/images/bg.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
